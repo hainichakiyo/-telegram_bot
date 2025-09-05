@@ -14,4 +14,4 @@ COPY . .
 
 # Command to run your bot when the container starts
 # Replace 'main.py' with the actual name of your bot's main script
-CMD ["python", "main.py"]
+CMD ["python", "bot.py"]
